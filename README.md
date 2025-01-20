@@ -4,7 +4,7 @@ Welcome to my machine learning journey! This contains all my work and notes from
 
 ## Table of Contents
 
-- [Image Classification](./image_classification/README.md): Introduction to Image Classification
+- [Image Classification](https://github.com/frank-895/pasta_detector): Introduction to Image Classification (standalone project using `fastai`).
 - [Manual Creation of NN](./manual_creation_of_NN/README.md): Understanding Linear Learner Models and Neural Networks by Classifying the MNIST Dataset
 
 ## About This Repository
