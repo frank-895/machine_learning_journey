@@ -39,3 +39,7 @@ This project demonstrates building a linear learner model and transforming it in
 - **Linear Learner**: Illustrates basic matrix operations, gradient descent, and linear model limitations.
 - **Neural Networks**: Highlights the importance of non-linearity for learning complex patterns.
 - **Optimization**: Demonstrates how SGD updates weights to minimize loss.
+
+## Credits
+
+This code is based on code provided by the fastai course, especially a number of Kaggle notebooks accessible through their website: https://www.fast.ai. The FastAI team has provided tools and resources that helped in developing this work. I have adapted the code and content to demonstrate my own learning and to help others!
