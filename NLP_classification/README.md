@@ -40,3 +40,7 @@ This project demonstrates the use of Hugging Face Transformers to predict the si
 - **Regression with Transformers**: Fine-tuning a transformer for a regression task requires careful handling of output layers and metrics.
 - **Pearson Correlation**: Using Pearson correlation as a metric is effective for evaluating similarity in regression tasks, but is sensitive to outliers.
 - **Model Fine-Tuning**: Even with a relatively simple architecture and a few epochs, fine-tuning a pre-trained model can yield impressive results.
+
+## Credits
+
+This code is based on code provided by the fastai course, especially a number of Kaggle notebooks accessible through their website: https://www.fast.ai. The FastAI team has provided tools and resources that helped in developing this work. I have adapted the code and content to demonstrate my own learning and to help others!
