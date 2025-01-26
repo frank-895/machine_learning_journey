@@ -1,4 +1,4 @@
-# Titanic Dataset Analysis: Survival Prediction
+# Titanic Dataset Analysis: Survival Prediction ⛵⛵⛵
 
 This repository demonstrates the application of machine learning techniques to predict the survival of passengers on the Titanic. Using the popular Titanic dataset, the project provides insights into exploratory data analysis, feature engineering, and model training.
 
