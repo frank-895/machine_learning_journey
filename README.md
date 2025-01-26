@@ -9,6 +9,7 @@ Welcome to my machine learning journey! This contains all my work and notes from
 - [NLP Classification](./NLP_classification): Using NLP classification to perform phrase to phrase matching for the US patent office.
 - [Titanic Dataset](./titanic_dataset): Demonstrated the process of building a deep learning model from scratch by predicting survival using the Titanic dataset. Performed the same task using pretrained models and more advanced techniques.
 - [Predict Sticker Sales](./predict_sticker_sales): My first machine learning Kaggle competition, using sales data to create a model that can predict future global sticker sales.
+- [Random Forests](./random_forests): Using binary splits, decision trees and finally random forests in a Kaggle competition about a mythical interstellar Titanic disaster.
 
 ## About This Repository
 
