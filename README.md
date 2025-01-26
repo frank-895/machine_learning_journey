@@ -1,4 +1,4 @@
-# My Machine Learning Journey
+# My Machine Learning Journey 🤖🤖🤖
 
 Welcome to my machine learning journey! This contains all my work and notes from the FastAI course among other sources. Each lesson folder includes the Jupyter notebooks which are my personal notes and experimentation based on the course material. I find that explaining the course material in my own words helps with my own understanding, and maybe it can also help others!
 
