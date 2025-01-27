@@ -12,6 +12,8 @@ In this Kaggle competition, the goal is to predict the number of sticker sales b
 
 This competition is aimed to be approachable, for people to practice their ML skills. But, it still provides real-world data and hidden test sets. I'm excited to demonstrate my ML knowledge through this challenge!
 
+So far, I've learnt deep learning as part of my machine learning journey, so this is the approach I took when solving the problem. However, it would also be worth attempting an **ensemble of decision trees** based approach, given we are working with structured data (i.e., tabular data).
+
 ## Process
 - **Data extraction and feature engineering**: Used `Pandas` to clean the data `fastai`'s `add_datepart()` function to perform feature engineering on the date column.
 - **Defined metric**: Created a custom metric for the Kaggle competition called **MAPE** or **Mean Absolute Percentage Error**.
