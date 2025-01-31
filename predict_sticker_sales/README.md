@@ -22,7 +22,7 @@ So far, I've learnt deep learning as part of my machine learning journey, so thi
 - **Pseudo-labelling**: Independently researched pseudo-labelling to use the full dataset, including unlabelled training data. Filtered pseudo-labelled data using **confidence** and a **threshold** value. Retrained the model to produce the best results.
 
 ## Results
-After making our Kaggle submission our score put us in the top 27% of Kaggle submissions, which is a terrific effort for our first competition. Our MAPE was 0.093.
+After making our Kaggle submission our score put us in the top 25% of Kaggle submissions, which is a terrific effort for our first competition. Our MAPE was 0.087.
 
 ## Key Learnings
 - **Pseudo-labelling**: I was completely unfamiliar with this machine learning technique prior to this project.
