@@ -24,7 +24,11 @@ So far, I've learnt deep learning as part of my machine learning journey, so thi
 ## Results
 After making our Kaggle submission our score put us in the top 25% of Kaggle submissions, which is a terrific effort for our first competition. Our MAPE was 0.087.
 
+**UPDATE**: After the competition ended and the final results were calculated, our submission moved up 273 places in the leaderboard. We ended up in the nearly the top 10% of submissions in position 390 out of 2,723, with a MAPE of 0.09713.
+
 ## Key Learnings
 - **Pseudo-labelling**: I was completely unfamiliar with this machine learning technique prior to this project.
 - **add_datepart**: I was able to learn some amazing state-of-the-art feature engineering tools provided by fastai.
+- **Weight decay**: I was able to understand what weight decay is and how it can reduce overfitting.
+- **Validation set**: I was able to select an appropriate validation set for a time series problem.
 - **Indendent Project**: It was fantastic working on an independent project on a completely new dataset without any assistance. This project has given me confidence in my skills and enthusiasm to keep learning!
