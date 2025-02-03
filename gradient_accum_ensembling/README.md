@@ -19,5 +19,5 @@ UPDATE HERE
 - **GPU optimisation**: Learnt how to use Python and PyTorch to clear our GPU memory, allowing us to train multiple models on Colab's free GPU.
 - **`pkl` files**: Learnt how to use FastAI to save several models as a `.pkl` file. 
 
-## Credit
+## Credits
 This code is based on code provided by the fastai course, especially a number of Kaggle notebooks accessible through their website: https://www.fast.ai. The FastAI team has provided tools and resources that helped in developing this work. I have adapted the code and content to demonstrate my own learning and to help others!
