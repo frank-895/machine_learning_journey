@@ -12,12 +12,13 @@ Welcome to my machine learning journey! This contains all my work and notes from
 - [Random Forests](./random_forests): Using binary splits, decision trees and finally random forests in a Kaggle competition about a mythical interstellar Titanic disaster.
 - [Gradient Boosting Machines](./gradient_boosting_machine): Using ensembles of decision trees, including random forests and gradient boosting machines, the Kaggle sticker competition was reattempted.
 - [Collaborative Filtering](./collaborative_filtering): Built a collaborative filtering model for movie recommendations from scratch using PyTorch.
+- [Gradient Accumulation & Ensembling](./gradient_accum_ensembling): Used Hugging Face and NLP to predict if a tweet was talking about a real disaster or not. Learned gradient accumulation and how to ensemble larger pretrained deep learning models.
 
 ## About This Repository
 
 - **Course**: FastAI
 - **Topics Covered**: Deep learning, image classification, transfer learning, and more.
-- **Tools Used**: Jupyter Notebooks, Python, PyTorch, Pandas, FastAI library, Huggingface Transformers
+- **Tools Used**: Jupyter Notebooks, Python, PyTorch, Pandas, FastAI library, Hugging Face Transformers, NumPy
 
 ## Credits
 
