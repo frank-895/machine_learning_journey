@@ -10,7 +10,8 @@ Welcome to my machine learning journey! This contains all my work and notes from
 - [Titanic Dataset](./titanic_dataset): Demonstrated the process of building a deep learning model from scratch by predicting survival using the Titanic dataset. Performed the same task using pretrained models and more advanced techniques.
 - [Predict Sticker Sales](./predict_sticker_sales): My first machine learning Kaggle competition, using sales data to create a model that can predict future global sticker sales.
 - [Random Forests](./random_forests): Using binary splits, decision trees and finally random forests in a Kaggle competition about a mythical interstellar Titanic disaster.
-- [Gradient Boosting Machines](./gradient_boosting_machine): Using ensembles of decision trees, including random forests and gradient boosting machines, the Kaggle sticker competition was reattempted. 
+- [Gradient Boosting Machines](./gradient_boosting_machine): Using ensembles of decision trees, including random forests and gradient boosting machines, the Kaggle sticker competition was reattempted.
+- [Collaborative Filtering](./collaborative_filtering): Built a collaborative filtering model for movie recommendations from scratch using PyTorch.
 
 ## About This Repository
 
