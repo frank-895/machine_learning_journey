@@ -11,7 +11,7 @@ The goal was to use **natural language processing** to predict if a tweet is tal
 - **Ensembling**: The predictions on the test set were made for each of the four models and combined using tensors (which are optimised for matrices). Predictions were averaged to produce our final results, which were submitted to Kaggle. 
 
 ## Results
-UPDATE HERE
+When we submitted to Kaggle, our final result was a MAPE of 0.82899, which put us in the top 25% of submissions!
 
 ## Key Learnings:
 - **Power of ensembling**: Learnt how to ensemble several deep learning models for improved predictive power.
