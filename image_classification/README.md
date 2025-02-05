@@ -1,3 +1,3 @@
-# Image Multiclass Classification - Estonian Mushrooms
+# Image Multiclass Classification - Estonian Mushrooms 🍄‍🟫🍄‍🟫🍄‍🟫
 
 Project in progress.
