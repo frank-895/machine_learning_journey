@@ -34,6 +34,9 @@ The random forest scored a MAPE on the test set of 0.162 while the GBM score 0.1
 - Why ensembles of decision trees are limited in their ability to extrapolate.
 - What domain shift is.
 
+## Future Improvements
+- Because GBMs are more fiddly then random forests, it is often worth performing a hyperparameter sweep to improve results. This was not conducted in this notebook, but would be worthwhile to consider for next time. 
+
 ## Credits
 
 This code is based on code provided by the fastai course, especially a number of Kaggle notebooks accessible through their website: https://www.fast.ai. The FastAI team has provided tools and resources that helped in developing this work. I have adapted the code and content to demonstrate my own learning and to help others!
