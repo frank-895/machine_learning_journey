@@ -13,6 +13,7 @@ Welcome to my machine learning journey! This contains all my work and notes from
 - [Gradient Boosting Machines](./gradient_boosting_machine): Using ensembles of decision trees, including random forests and gradient boosting machines, the Kaggle sticker competition was reattempted.
 - [Collaborative Filtering](./collaborative_filtering): Built a collaborative filtering model for movie recommendations from scratch using PyTorch, explaining weight decay in detail. 
 - [Gradient Accumulation & Ensembling](./gradient_accum_ensembling): Used Hugging Face and NLP to predict if a tweet was talking about a real disaster or not. Learned gradient accumulation and how to ensemble larger pretrained deep learning models.
+- [Advanced Image Classification](./image_classification): Another attempt at image classification, this time scoring the **top of the leaderboard** in a competition classifying Estonian mushrooms! Used an iterative approach to deep learning and employed test time augmentation.
 - [Data Science Ethics](./ethics): A discussion about ethics in data science. While my notes do not contain code, I wanted to include it in this GitHub repository, as it is an important part of my learning journey in machine learning and AI.
 
 ## About This Repository
