@@ -3,8 +3,8 @@
 This project is a deep dive into how collaborative filtering works. I will be using collaborative filtering to recommend movies based on the preferences of other users and I will build the model from scratch, to help me gain a deeper understanding.
 
 We will be approaching collaborative filtering with 2 techniques:
-1. **Probabilistic matrix factorization** (PMF)
-2. **Deep learning**
+1. **Probabilistic matrix factorization** (PMF) - dot product approach
+2. **Deep learning** - neural network and concatenation approach
 
 This notebook is based on similar work done in the FastAI course, specifically from this Kaggle notebook, [Collaborative Filtering Deep Dive](https://www.kaggle.com/code/jhoward/collaborative-filtering-deep-dive/notebook).
 
@@ -18,12 +18,12 @@ This notebook is based on similar work done in the FastAI course, specifically f
 - **Bootstrapping and feedback loops**: We introduced the idea of the **bootstrapping problems** and the tendency of collaborative filtering models to amplify bias through feedback loops. 
 
 ## Results
-The PMF model had a validation loss of 0.854 and the deep learning model had a validation loss of 0.870 - however, the result was less important, as the aim of this notebook was to understand collaborative filtering, rather than develop a world-class model!
+The PMF model dot product approach had a validation loss of 0.854 and the deep learning model had a validation loss of 0.870. The deep learning model has the potential to incorporate metadata but does not take advantage of the specific problem domain, hence the worse result. However, the result was less important, as the aim of this notebook was to understand collaborative filtering, rather than develop a world-class model!
 
 ## Key Learnings
 - What collaborative filtering is and when it might be used.
-- How to build a collaborative filtering model based on **probabilistic matrix factorization.**
-- How to build a collaborative filtering model based on **deep learning.**
+- How to build a collaborative filtering model based on **probabilistic matrix factorization** and dot product of embedding vectors.
+- How to build a collaborative filtering model based on **deep learning** and concatenation of embedding vectors.
 - What **latent factors** are.
 - What an **embedding** is and how PyTorch implements this with an **embedding layer**.
 - The idea of **class inheritance** in OOP.
