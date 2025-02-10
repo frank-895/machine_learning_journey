@@ -15,6 +15,7 @@ Welcome to my machine learning journey! This contains all my work and notes from
 - [Gradient Accumulation & Ensembling](./gradient_accum_ensembling): Used Hugging Face and NLP to predict if a tweet was talking about a real disaster or not. Learned gradient accumulation and how to ensemble larger pretrained deep learning models.
 - [Advanced Image Classification](./image_classification): Another attempt at image classification, this time scoring the **top of the leaderboard** in a competition classifying Estonian mushrooms! Used an iterative approach to deep learning and employed test time augmentation.
 - [Multi-target Classification](./multi-target_classification): Used FastAI to predict two distinct features of an image of rice fields: variety of rice and its disease. Used cross-entropy loss, detailing its calculation through a concrete example.
+- [Convolutional Neural Networks](./CNNs): My personal notes on the underlying and core logic behind convolutional neural networks, which are critical to computer vision problems. 
 - [Data Science Ethics](./ethics): A discussion about ethics in data science. While my notes do not contain code, I wanted to include it in this GitHub repository, as it is an important part of my learning journey in machine learning and AI.
 
 ## About This Repository
