@@ -15,6 +15,7 @@ This notebook is based on similar work done in the FastAI course, specifically f
 - **Creating an embedding module**: We understood the underlying logic of embedding modules and how they are optimised to 'search' on the GPU.
 - **Embedding analysis**: We used the embedding vectors and bias terms to analyse the movies and users, and make meaningful comparisons based on **principle component analysis** and **cosine similarity**.
 - **Creating the deep learning model**: We used PyTorch and FastAI to built a simple NN, adding in 2 hidden layers.
+- **Importance of embeddings**: We learnt how a similar embedding concept is used in NLP and in tabular deep learning models. 
 - **Bootstrapping and feedback loops**: We introduced the idea of the **bootstrapping problems** and the tendency of collaborative filtering models to amplify bias through feedback loops. 
 
 ## Results
@@ -30,6 +31,7 @@ The PMF model dot product approach had a validation loss of 0.854 and the deep l
 - Why a **bias term** is important with collaborative filtering.
 - What **weight decay** is and why it improves the model.
 - How to create our own **embedding module**.
+- The significance of embedding modules to **NLP** and **tabular deep learning models**.
 - How to analyse collaborative filtering models using:
   - The **bias term**
   - The **embedding vectors**
